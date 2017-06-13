@@ -1,3 +1,6 @@
+.warning {
+	color: orange;
+}
 .comm {
 	white-space: pre-line;
 	padding: 16px;
@@ -87,7 +90,7 @@ body {
 div {
 	display: block;
 }
-h2 {
+section h2 {
 	color: #fff;
     padding: 0 0 7px 0;
     margin-top: 0;
@@ -136,6 +139,7 @@ nav li:last-child a {
 }
 nav a:hover, nav a:active {
 	background-color: #8c99a4;
+	border-bottom: 2px solid orange;
 }
 nav a#pull {
 	display: none;
