@@ -23,7 +23,7 @@
 	padding-top: 1%;
 	padding-bottom: 1%;
 	color: #333333;
-	border-bottom: 1px solid #576979;
+	border-bottom: 2px solid #576979;
 }
 .sectionTitle {
 	color: #333333;
@@ -46,7 +46,7 @@
 	color: #a8a7a9;
 	padding-bottom: 26px;
 	font-size: 14px;
-	border-top: 1px solid #f7941e;
+	border-top: 2px solid #f7941e;
 }
 .footTextSub {
 	color: #d3d3d3;
