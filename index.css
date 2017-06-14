@@ -73,6 +73,13 @@
 #upBtn:hover {
     background-color: #242426; /* Add a dark-grey background on hover */
 }
+#tarBtn {
+	position: absolute;
+	right: 10%;
+	top: 0%;
+	max-width: 10%;
+	max-height: 10%;
+}
 html,body
 {
     height:100%;
@@ -103,7 +110,7 @@ nav {
 	margin-top: 0%;
 	height: 40px;
 	width: 80%;
-	background: #455868;
+	background: #4A4A4E;
 	font-size: 11pt;
 	font-weight: bold;
 	position: absolute;
