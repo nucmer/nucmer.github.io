@@ -76,7 +76,14 @@
 #tarBtn {
 	position: absolute;
 	right: 10%;
-	top: 0%;
+	top: 1%;
+	max-width: 10%;
+	max-height: 10%;
+}
+#zipBtn {
+	position: absolute;
+	right: 15%;
+	top: 1%;
 	max-width: 10%;
 	max-height: 10%;
 }
