@@ -235,7 +235,7 @@ nav a#pull {
 	  	text-indent: 25px;
   	}
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
 	.contents {
 		padding-right: 2%;
 		padding-left: 2%;
